@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"DetectSyntax",
+		"Git",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
